@@ -1,6 +1,9 @@
 # stageandscreen
 "Stage and Screen" celebrates the art of storytelling through live theatre and cinematic performance.
 
+Live site
+https://www.stageandscreen.travel/en-au
+
 https://dev-stage-and-screen.pantheonsite.io/
 Username: admin
 Password: m1MbFNhhL72PAfZ
@@ -22,3 +25,8 @@ https://www.figma.com/proto/M1dK6tP2G3uln3TsrXiFFK/Stage-and-Screen-Website-Mock
 Desktop Figma
 =========================
 https://www.figma.com/design/M1dK6tP2G3uln3TsrXiFFK/Stage-and-Screen-Website-Mock-Up?node-id=10748-820&m=dev&t=eFtCY78WUGMxDoGy-1
+
+Client Feedback Sheet
+===============================================================================
+https://docs.google.com/spreadsheets/d/1KZcEX-OXJ6ejeQCFKDh5f1A1KcmwC3Yzu-TYfR7wtWY/edit?gid=0#gid=0
+
